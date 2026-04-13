@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Test User 001",
+    "ssn": "000-02-0001",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 2,
+    "name": "Test User 002",
+    "ssn": "000-03-0002",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 3,
+    "name": "Test User 003",
+    "ssn": "000-04-0003",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 4,
+    "name": "Test User 004",
+    "ssn": "000-05-0004",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 5,
+    "name": "Test User 005",
+    "ssn": "000-06-0005",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 6,
+    "name": "Test User 006",
+    "ssn": "000-07-0006",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 7,
+    "name": "Test User 007",
+    "ssn": "000-08-0007",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 8,
+    "name": "Test User 008",
+    "ssn": "000-09-0008",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 9,
+    "name": "Test User 009",
+    "ssn": "000-10-0009",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 10,
+    "name": "Test User 010",
+    "ssn": "000-11-0010",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 11,
+    "name": "Test User 011",
+    "ssn": "000-12-0011",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 12,
+    "name": "Test User 012",
+    "ssn": "000-13-0012",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 13,
+    "name": "Test User 013",
+    "ssn": "000-14-0013",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 14,
+    "name": "Test User 014",
+    "ssn": "000-15-0014",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 15,
+    "name": "Test User 015",
+    "ssn": "000-16-0015",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 16,
+    "name": "Test User 016",
+    "ssn": "000-17-0016",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 17,
+    "name": "Test User 017",
+    "ssn": "000-18-0017",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 18,
+    "name": "Test User 018",
+    "ssn": "000-19-0018",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 19,
+    "name": "Test User 019",
+    "ssn": "000-20-0019",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 20,
+    "name": "Test User 020",
+    "ssn": "000-21-0020",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 21,
+    "name": "Test User 021",
+    "ssn": "000-22-0021",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 22,
+    "name": "Test User 022",
+    "ssn": "000-23-0022",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 23,
+    "name": "Test User 023",
+    "ssn": "000-24-0023",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 24,
+    "name": "Test User 024",
+    "ssn": "000-25-0024",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 25,
+    "name": "Test User 025",
+    "ssn": "000-26-0025",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 26,
+    "name": "Test User 026",
+    "ssn": "000-27-0026",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 27,
+    "name": "Test User 027",
+    "ssn": "000-28-0027",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 28,
+    "name": "Test User 028",
+    "ssn": "000-29-0028",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 29,
+    "name": "Test User 029",
+    "ssn": "000-30-0029",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 30,
+    "name": "Test User 030",
+    "ssn": "000-31-0030",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 31,
+    "name": "Test User 031",
+    "ssn": "000-32-0031",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 32,
+    "name": "Test User 032",
+    "ssn": "000-33-0032",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 33,
+    "name": "Test User 033",
+    "ssn": "000-34-0033",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 34,
+    "name": "Test User 034",
+    "ssn": "000-35-0034",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 35,
+    "name": "Test User 035",
+    "ssn": "000-36-0035",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 36,
+    "name": "Test User 036",
+    "ssn": "000-37-0036",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 37,
+    "name": "Test User 037",
+    "ssn": "000-38-0037",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 38,
+    "name": "Test User 038",
+    "ssn": "000-39-0038",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 39,
+    "name": "Test User 039",
+    "ssn": "000-40-0039",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 40,
+    "name": "Test User 040",
+    "ssn": "000-41-0040",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 41,
+    "name": "Test User 041",
+    "ssn": "000-42-0041",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 42,
+    "name": "Test User 042",
+    "ssn": "000-43-0042",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 43,
+    "name": "Test User 043",
+    "ssn": "000-44-0043",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 44,
+    "name": "Test User 044",
+    "ssn": "000-45-0044",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 45,
+    "name": "Test User 045",
+    "ssn": "000-46-0045",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 46,
+    "name": "Test User 046",
+    "ssn": "000-47-0046",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 47,
+    "name": "Test User 047",
+    "ssn": "000-48-0047",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 48,
+    "name": "Test User 048",
+    "ssn": "000-49-0048",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 49,
+    "name": "Test User 049",
+    "ssn": "000-50-0049",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  },
+  {
+    "id": 50,
+    "name": "Test User 050",
+    "ssn": "000-51-0050",
+    "note": "FAKE - synthetic test SSN (invalid for real identity use)"
+  }
+]

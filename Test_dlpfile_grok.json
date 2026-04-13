@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John Doe",
+    "ssn": "123-45-6789"
+  },
+  {
+    "name": "Jane Smith",
+    "ssn": "987-65-4321"
+  },
+  {
+    "name": "Alice Johnson",
+    "ssn": "456-78-9012"
+  }
+]
