@@ -1,0 +1,7 @@
+Test Patient Information
+ 
+Patient: John Smith
+SSN: 165-48-9521
+DOB: 11/02/1951
+Diagnosis: E11.9 Type 2 Diabetes mellitus without complications
+Medication: Metformin (Glucophage), Tylenol
